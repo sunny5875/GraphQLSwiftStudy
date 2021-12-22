@@ -1,0 +1,29 @@
+version: "Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)"
+options: "643392b15205630a142d37f512ad72e59544a0cb7d8038c98d9f4dbafe815499"
+build_start_time: [1637480258, 167037010]
+build_end_time: [1637480260, 480942964]
+inputs:
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/ApolloWebSocket/DefaultImplementation/Compression.swift"
+  : [1637479156, 723029613]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/ApolloWebSocket/DefaultImplementation/SSLClientCertificate.swift"
+  : [1637479156, 723223209]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/ApolloWebSocket/DefaultImplementation/SSLSecurity.swift"
+  : [1637479156, 723384857]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/ApolloWebSocket/DefaultImplementation/WebSocket.swift"
+  : [1637479156, 724681377]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/ApolloWebSocket/DefaultImplementation/WebSocketStream.swift"
+  : [1637479156, 725903511]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/ApolloWebSocket/OperationMessage.swift"
+  : [1637479156, 727144241]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/ApolloWebSocket/OperationMessageIdCreator.swift"
+  : [1637479156, 727435588]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/ApolloWebSocket/SplitNetworkTransport.swift"
+  : [1637479156, 727632045]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/ApolloWebSocket/WebSocketClient.swift"
+  : [1637479156, 727954626]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/ApolloWebSocket/WebSocketError.swift"
+  : [1637479156, 728110313]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/ApolloWebSocket/WebSocketTask.swift"
+  : [1637479156, 728312969]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/ApolloWebSocket/WebSocketTransport.swift"
+  : [1637479156, 728682041]

@@ -1,0 +1,60 @@
+{
+  "_buildCommand2" : {
+    "command" : "preview"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "PACKAGE-TARGET:ApolloAPI"
+    }
+  ],
+  "containerPath" : "/Users/hyunsubin/xcodeProject/memoApp/memoApp.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx12.0",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/hyunsubin/xcodeProject/memoApp/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/hyunsubin/xcodeProject/memoApp/Build/Products",
+      "derivedDataPath" : "/Users/hyunsubin/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/hyunsubin/xcodeProject/memoApp/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "DSTROOT" : "/Users/hyunsubin/xcodeProject/memoApp/Build/Intermediates.noindex/Playgrounds/ReleaseProducts",
+          "ENABLE_PREVIEWS" : "YES",
+          "OBJROOT" : "/Users/hyunsubin/xcodeProject/memoApp/Build/Intermediates.noindex/Playgrounds/Intermediates.noindex",
+          "PACKAGE_BUILD_DYNAMICALLY" : "NO",
+          "PLATFORM_NAME" : "macosx",
+          "SYMROOT" : "/Users/hyunsubin/xcodeProject/memoApp/Build/Intermediates.noindex/Playgrounds/Products"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}

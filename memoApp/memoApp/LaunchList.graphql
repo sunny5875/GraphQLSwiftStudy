@@ -1,0 +1,7 @@
+query LaunchList {
+  todo {
+    id
+    date
+    text
+  }
+}

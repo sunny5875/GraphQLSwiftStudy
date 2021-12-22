@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+SQLiteObjc in SQLite.swift, no dependencies

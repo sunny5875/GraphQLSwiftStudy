@@ -1,0 +1,22 @@
+Target dependency graph (7 targets)
+ApolloAPI in Apollo, no dependencies
+ApolloUtils in Apollo, no dependencies
+Apollo in Apollo, depends on:
+ApolloAPI in Apollo (explicit)
+ApolloUtils in Apollo (explicit)
+Apollo in Apollo, depends on:
+Apollo in Apollo (explicit)
+ApolloAPI in Apollo (explicit)
+ApolloUtils in Apollo (explicit)
+ApolloWebSocket in Apollo, depends on:
+ApolloAPI in Apollo (explicit)
+ApolloUtils in Apollo (explicit)
+Apollo in Apollo (explicit)
+ApolloWebSocket in Apollo, depends on:
+ApolloWebSocket in Apollo (explicit)
+ApolloAPI in Apollo (explicit)
+ApolloUtils in Apollo (explicit)
+Apollo in Apollo (explicit)
+memoApp in memoApp, depends on:
+Apollo in Apollo (explicit)
+ApolloWebSocket in Apollo (explicit)

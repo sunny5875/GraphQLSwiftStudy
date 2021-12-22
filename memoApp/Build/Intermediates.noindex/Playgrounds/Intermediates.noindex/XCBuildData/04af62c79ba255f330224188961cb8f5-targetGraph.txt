@@ -1,0 +1,17 @@
+Target dependency graph (7 targets)
+ApolloAPI in Apollo, no dependencies
+ApolloUtils in Apollo, no dependencies
+Apollo in Apollo, depends on:
+ApolloAPI in Apollo (explicit)
+ApolloUtils in Apollo (explicit)
+SQLiteObjc in SQLite.swift, no dependencies
+SQLite in SQLite.swift, depends on:
+SQLiteObjc in SQLite.swift (explicit)
+SQLite in SQLite.swift, depends on:
+SQLite in SQLite.swift (explicit)
+SQLiteObjc in SQLite.swift (explicit)
+ApolloSQLite in Apollo, depends on:
+ApolloAPI in Apollo (explicit)
+ApolloUtils in Apollo (explicit)
+Apollo in Apollo (explicit)
+SQLite in SQLite.swift (explicit)

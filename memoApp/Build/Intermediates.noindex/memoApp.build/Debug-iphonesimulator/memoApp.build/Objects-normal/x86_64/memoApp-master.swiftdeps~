@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)"
+options: "7c210285ad91bfaec743ad1cdc75c0a36a39d4994ee93a2203d801d0d6081829"
+build_start_time: [1637428971, 870388984]
+build_end_time: [1637428977, 472426891]
+inputs:
+  "/Users/hyunsubin/xcodeProject/memoApp/memoApp/AppDelegate.swift": [1637428378, 489532470]
+  "/Users/hyunsubin/xcodeProject/memoApp/memoApp/SceneDelegate.swift": [1637428378, 492590904]
+  "/Users/hyunsubin/xcodeProject/memoApp/memoApp/ViewController.swift": [1637428378, 494352340]

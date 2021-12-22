@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)"
+options: "c37a9b983607173aaa619ac75dddc039d218593258e73e88f59f5ba0cd0a13c2"
+build_start_time: [1637480252, 597365856]
+build_end_time: [1637480255, 883713006]
+inputs:
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/ApolloUtils/ApolloExtension.swift"
+  : [1637479156, 721834182]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/ApolloUtils/Atomic.swift"
+  : [1637479156, 722105026]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/ApolloUtils/Collection+Apollo.swift"
+  : [1637479156, 722288370]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/ApolloUtils/String+SHA.swift"
+  : [1637479156, 722730636]

@@ -1,0 +1,4 @@
+module ApolloWebSocket {
+header "ApolloWebSocket-Swift.h"
+export *
+}

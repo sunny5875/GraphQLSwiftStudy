@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)"
+options: "c37a9b983607173aaa619ac75dddc039d218593258e73e88f59f5ba0cd0a13c2"
+build_start_time: [1637480252, 597365856]
+build_end_time: [1637480255, 638350009]
+inputs:
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/ApolloAPI/InputValue.swift"
+  : [1637479156, 663471221]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/ApolloAPI/ScalarTypes.swift"
+  : [1637479156, 663643360]

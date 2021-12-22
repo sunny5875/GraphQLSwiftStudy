@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+ApolloAPI in Apollo, no dependencies
+ApolloUtils in Apollo, no dependencies
+Apollo in Apollo, depends on:
+ApolloAPI in Apollo (explicit)
+ApolloUtils in Apollo (explicit)

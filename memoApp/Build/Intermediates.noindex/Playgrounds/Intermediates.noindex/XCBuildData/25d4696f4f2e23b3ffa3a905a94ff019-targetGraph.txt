@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+Apollo_ApolloCodegenLib in Apollo, no dependencies
+ApolloUtils in Apollo, no dependencies
+ApolloCodegenLib in Apollo, depends on:
+Apollo_ApolloCodegenLib in Apollo (explicit)
+ApolloUtils in Apollo (explicit)

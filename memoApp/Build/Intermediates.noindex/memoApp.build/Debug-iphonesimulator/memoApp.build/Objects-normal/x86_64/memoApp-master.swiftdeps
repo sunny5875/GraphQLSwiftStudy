@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)"
+options: "c5ea68267481cf879d028fb31e4894fc0cb6a1df02f690bd1abf18d347efc194"
+build_start_time: [1638079779, 247730016]
+build_end_time: [1638079780, 784119129]
+inputs:
+  "/Users/hyunsubin/xcodeProject/memoApp/memoApp/AppDelegate.swift": [1638079777, 985690593]
+  "/Users/hyunsubin/xcodeProject/memoApp/memoApp/CreateViewController.swift": [1637477123, 700442075]
+  "/Users/hyunsubin/xcodeProject/memoApp/memoApp/DeleteViewController.swift": [1637477188, 380715370]
+  "/Users/hyunsubin/xcodeProject/memoApp/memoApp/ReadViewController.swift": [1637480247, 235833644]
+  "/Users/hyunsubin/xcodeProject/memoApp/memoApp/SceneDelegate.swift": [1637428378, 492590904]
+  "/Users/hyunsubin/xcodeProject/memoApp/memoApp/Todo.swift": [1638078633, 992125034]
+  "/Users/hyunsubin/xcodeProject/memoApp/memoApp/UpdateViewController.swift": [1637477140, 357394218]
+  "/Users/hyunsubin/xcodeProject/memoApp/memoApp/network.swift": [1638078742, 658200740]

@@ -1,0 +1,131 @@
+version: "Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)"
+options: "de8756c011b5aa889796d7d055c76718a6fe5a2fc5c8a868c3c2c68509392ab7"
+build_start_time: [1637480255, 977270126]
+build_end_time: [1637480258, 57392120]
+inputs:
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/ApolloClient.swift"
+  : [1637479156, 637547016]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/ApolloClientProtocol.swift"
+  : [1637479156, 637867927]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/ApolloErrorInterceptor.swift"
+  : [1637479156, 638081073]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/ApolloInterceptor.swift"
+  : [1637479156, 638261318]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/ApolloStore.swift"
+  : [1637479156, 638458967]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/AutomaticPersistedQueryInterceptor.swift"
+  : [1637479156, 639007091]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/Bundle+Helpers.swift"
+  : [1637479156, 639195680]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/CacheReadInterceptor.swift"
+  : [1637479156, 639360904]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/CacheReference.swift"
+  : [1637479156, 639507293]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/CacheWriteInterceptor.swift"
+  : [1637479156, 639993667]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/Cancellable.swift"
+  : [1637479156, 641105890]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/Collection+Helpers.swift"
+  : [1637479156, 641879081]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/DataLoader.swift"
+  : [1637479156, 642315864]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/Decoding.swift"
+  : [1637479156, 643134355]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/DefaultInterceptorProvider.swift"
+  : [1637479156, 643691062]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/Dictionary+Helpers.swift"
+  : [1637479156, 644013404]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/DispatchQueue+Optional.swift"
+  : [1637479156, 644241809]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/GraphQLDependencyTracker.swift"
+  : [1637479156, 644468784]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/GraphQLError.swift"
+  : [1637479156, 644727706]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/GraphQLExecutor.swift"
+  : [1637479156, 645024776]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/GraphQLFile.swift"
+  : [1637479156, 645326137]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/GraphQLGETTransformer.swift"
+  : [1637479156, 645582675]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/GraphQLHTTPMethod.swift"
+  : [1637479156, 645816802]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/GraphQLHTTPRequestError.swift"
+  : [1637479156, 646132469]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/GraphQLMap.swift"
+  : [1637479156, 646389007]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/GraphQLOperation.swift"
+  : [1637479156, 647082328]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/GraphQLQueryWatcher.swift"
+  : [1637479156, 647366046]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/GraphQLResponse.swift"
+  : [1637479156, 647562742]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/GraphQLResponseGenerator.swift"
+  : [1637479156, 647739171]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/GraphQLResult.swift"
+  : [1637479156, 647930145]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/GraphQLResultAccumulator.swift"
+  : [1637479156, 648388385]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/GraphQLResultNormalizer.swift"
+  : [1637479156, 648601531]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/GraphQLSelectionSet.swift"
+  : [1637479156, 648787975]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/GraphQLSelectionSetMapper.swift"
+  : [1637479156, 649046897]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/GroupedSequence.swift"
+  : [1637479156, 649216175]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/HTTPRequest.swift"
+  : [1637479156, 649375915]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/HTTPResponse.swift"
+  : [1637479156, 649529933]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/HTTPURLResponse+Helpers.swift"
+  : [1637479156, 649773120]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/InMemoryNormalizedCache.swift"
+  : [1637479156, 649953365]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/InputValue+Evaluation.swift"
+  : [1637479156, 650273323]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/InterceptorProvider.swift"
+  : [1637479156, 650438785]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/JSON.swift"
+  : [1637479156, 650971412]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/JSONRequest.swift"
+  : [1637479156, 651162624]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/JSONResponseParsingInterceptor.swift"
+  : [1637479156, 651340961]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/JSONSerialization+Sorting.swift"
+  : [1637479156, 651583671]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/JSONSerializationFormat.swift"
+  : [1637479156, 651753664]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/JSONStandardTypeConversions.swift"
+  : [1637479156, 651977777]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/MaxRetryInterceptor.swift"
+  : [1637479156, 652892827]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/MultipartFormData.swift"
+  : [1637479156, 654004096]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/NetworkFetchInterceptor.swift"
+  : [1637479156, 654917716]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/NetworkTransport.swift"
+  : [1637479156, 655446290]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/NormalizedCache.swift"
+  : [1637479156, 655705213]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/PossiblyDeferred.swift"
+  : [1637479156, 655986309]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/Record.swift"
+  : [1637479156, 656209945]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/RecordSet.swift"
+  : [1637479156, 656900644]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/RequestBodyCreator.swift"
+  : [1637479156, 657514095]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/RequestChain.swift"
+  : [1637479156, 659312248]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/RequestChainNetworkTransport.swift"
+  : [1637479156, 660112619]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/ResponseCodeInterceptor.swift"
+  : [1637479156, 660410404]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/ResponsePath.swift"
+  : [1637479156, 660595893]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/TaskData.swift"
+  : [1637479156, 660763263]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/URLSessionClient.swift"
+  : [1637479156, 661057472]
+  ? "/Users/hyunsubin/Library/Developer/Xcode/DerivedData/memoApp-defamwkvotjofghhvdrxltxbeewy/SourcePackages/checkouts/apollo-ios/Sources/Apollo/UploadRequest.swift"
+  : [1637479156, 661338806]
